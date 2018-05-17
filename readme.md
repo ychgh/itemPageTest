@@ -89,7 +89,8 @@ automation/
 # get started 
 
 ## create mocha tests to back up test scenarios defined in features/*.feature files.
-	tests are saved in 
+	tests are saved in specs/
+	
 ## create bare framework 
 todo 
 	to process gherkin file 
