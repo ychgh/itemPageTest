@@ -1,0 +1,5 @@
+# nodejs-specific
+node_modules/
+webdriverio/
+
+*.log

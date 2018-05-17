@@ -1,0 +1,22 @@
+{
+  "name": "item-page-tests",
+  "version": "1.0.0",
+  "description": "this project demos how to increase the coverage of item page (Walmart.ca)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-plan"
+  },
+  "keywords": [
+    "test",
+    "coverage",
+    "test",
+    "plan"
+  ],
+  "author": "Yongsheng Chen",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jshint": "^2.9.5",
+    "webdriverio": "^4.12.0"
+  }
+}
